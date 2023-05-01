@@ -10,3 +10,6 @@ The dataset format is patterned to match closely with the classic MNIST. Each tr
 This dataset was inspired by the Fashion-MNIST 2 and the machine learning pipeline for gestures by Sreehari 4.
 
 A robust visual recognition algorithm could provide not only new benchmarks that challenge modern machine learning methods such as Convolutional Neural Nets but also could pragmatically help the deaf and hard-of-hearing better communicate using computer vision applications. The National Institute on Deafness and other Communications Disorders (NIDCD) indicates that the 200-year-old American Sign Language is a complete, complex language (of which letter gestures are only part) but is the primary language for many deaf North Americans. ASL is the leading minority language in the U.S. after the "big four": Spanish, Italian, German, and French. One could implement computer vision in an inexpensive board computer like Raspberry Pi with OpenCV, and some Text-to-Speech to enabling improved and automated translation applications.
+
+Train data: https://github.com/zer0xtm/Sign-Language-MNIST/blob/main/sign_mnist_train.csv
+Code: https://github.com/zer0xtm/Sign-Language-MNIST/blob/main/SLMNIST.ipynb
